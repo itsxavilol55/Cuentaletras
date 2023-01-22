@@ -4,7 +4,7 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.event.*;
 //javier eduardo lopez ontiveros
 //topicos avanzados de programacion
-//examen recuperacion de componentes
+//examen recuperacion de componentes 
 public class CuentaLetras extends JPanel implements ActionListener, KeyListener, ComponentListener
 {
     private JButton btnfrecuencia, btnLimpiar;
